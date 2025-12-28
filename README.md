@@ -6,4 +6,4 @@ The AI uses the Minimax algorithm.
 1. Install Python 3
 2. Download or clone this repository
 3. Run:
-   python tic_tac_toe.py
+   python script.py
